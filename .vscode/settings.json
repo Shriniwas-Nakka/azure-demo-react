@@ -1,0 +1,8 @@
+{
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ],
+    "appService.defaultWebAppToDeploy": "/subscriptions/c06aa52c-9f46-43b5-84bd-ac44b08ab283/resourceGroups/demo/providers/Microsoft.Web/sites/shri-test-project",
+    "appService.deploySubpath": "."
+}
